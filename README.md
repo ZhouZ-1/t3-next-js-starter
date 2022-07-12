@@ -1,2 +1,3 @@
-# t3-next-js-starter
-A template repository for spinning up the t3 stack
+# Create T3 App
+
+This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
